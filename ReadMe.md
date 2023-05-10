@@ -23,3 +23,9 @@ The continious integration steps remains same i.e building java application usin
 ![Steps](https://github.com/bhuvanchandmaddi/ci-cd-project/blob/main/.images/k8cluster.PNG?raw=true)
 ![Flow](https://github.com/bhuvanchandmaddi/ci-cd-project/blob/main/.images/k8clusterflow.PNG?raw=true)
 
+## References
+
+[Sample maven project](https://github.com/yankils/hello-world)
+
+[Installations documentation](https://github.com/yankils/Simple-DevOps-Project)
+
