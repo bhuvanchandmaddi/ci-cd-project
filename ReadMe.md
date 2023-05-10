@@ -11,7 +11,7 @@ The continious integration steps remains same i.e building java application usin
 
 ![Steps](https://github.com/bhuvanchandmaddi/ci-cd-project/blob/main/.images/tomcatserver.PNG?raw=true)
 
-![Flow](https://github.com/bhuvanchandmaddi/ci-cd-project/blob/main/.images/tomcatserverflow.PNG?raw=true)
+![Flow](https://github.com/bhuvanchandmaddi/ci-cd-project/blob/main/.images/tomatserverflow.PNG?raw=true)
 
 ## Containerize the application and deploy on docker container
 
