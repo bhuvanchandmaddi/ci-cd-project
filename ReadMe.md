@@ -33,7 +33,7 @@ The continious integration steps remains same i.e building java application usin
 
 I would like to express my gratitude to the AR Sankar & Valaxy technologies for such an amazing project in udemy course.
 
-- [Udemy Course](https://www.udemy.com/course/valaxy-devops): Brief description of their contribution or involvement.
+- [Udemy Course](https://www.udemy.com/course/valaxy-devops): udemy couse of this project.
 - [Official website](https://www.valaxytech.com/): Checkout for amazing projects and wide range of courses
 
 
