@@ -29,3 +29,11 @@ The continious integration steps remains same i.e building java application usin
 
 [Installations documentation](https://github.com/yankils/Simple-DevOps-Project)
 
+## Acknowledgments
+
+I would like to express my gratitude to the AR Sankar & Valaxy technologies for such an amazing project in udemy course.
+
+- [Udemy Course](https://www.udemy.com/course/valaxy-devops): Brief description of their contribution or involvement.
+- [Official website](https://www.valaxytech.com/): Checkout for amazing projects and wide range of courses
+
+

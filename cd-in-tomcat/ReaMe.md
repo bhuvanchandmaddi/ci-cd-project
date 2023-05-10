@@ -69,3 +69,5 @@ WAR/EAR files:
 * [Create a web-hook](https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-jenkins-project), so that jenkins pipeline will be trigged when a check in was made to github project.
 
 
+
+
