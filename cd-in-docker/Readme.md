@@ -44,7 +44,7 @@ ADD ./*.war webapps
 * We use **Publish Over SSH** plugin, to copy the artifact. 
 * After installing plugin, we need to configure the machine details in manage jenkins -> Configure system. You need to specify the hostname(or ip), user(dockeradm as shown below) and password etc
 * Then in the build you need to specify the details like from where to where as shown below.
-![publishoverssh]()
+![publishoverssh](https://github.com/bhuvanchandmaddi/ci-cd-project/blob/main/.images/publisoverssh.PNG?raw=true)
 * We need to do above actions using non-root user.
 ```
 # create a user
@@ -90,7 +90,7 @@ http://<public ip of docker machine>:8088
 ### problem with above approach
 * It is not a good idea to hard core the steps in the jenkins configuration.
 * We use ansible for image build part and pushing it to artifactory and docker machine to run the container as shown below
-![ansible]()
+![ansible](https://github.com/bhuvanchandmaddi/ci-cd-project/blob/main/.images/ansible.PNG?raw=true)
 
 ### Ansible setup
 
