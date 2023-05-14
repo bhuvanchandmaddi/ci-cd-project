@@ -5,7 +5,7 @@
 ### Create a Eks bootstrap machine
 * Create a Ec2 instance
 * Install awscli and configure it aws secret and access keys
-* Install eksctl to create EKS cluster
+* Install eksctl to create EKS cluster and create EKS cluster
 * Install the kubectl to talk to the kubernetes cluster
 * Also create a user, Let's say k8user
 ```
@@ -110,6 +110,10 @@ spec:
 
   - name: Apply the service
     command: kubectl --kubeconfig=/root/.kube/config apply -f /opt/k8/Service.yaml
+
+  - name: update deployment with new pods if image updated in docker hub
+      command: kubectl rollout restart deployment.apps/valaxy-regapp
+
 ```
 * Test this playbook by running it manually, it should create Deployment and Service manifest in k8 cluster.
 
